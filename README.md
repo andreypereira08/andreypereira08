@@ -7,7 +7,8 @@
 
 <br/>
 
-[![site](https://img.shields.io/badge/meu_repositorio-000000?style=for-the-badge&logo=About.&logoColor=white)](http://testehospedagem2.ezyro.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-pereira-b92a36224/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yerdna_08/)
+<!-- [![site](https://img.shields.io/badge/meu_repositorio-000000?style=for-the-badge&logo=About.&logoColor=white)](http://testehospedagem2.ezyro.com)  -->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-pereira-b92a36224/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yerdna_08/)
 
 
 ![andreypereira08 GitHub stats](https://github-readme-stats.vercel.app/api?username=andreypereira08&show_icons=true&theme=tokyonight)
