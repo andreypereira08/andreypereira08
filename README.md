@@ -34,4 +34,4 @@
 ## Contato:
 
 - Email: [andrey08.ap@gmail.com](andrey08.ap@gmail.com)<br/>
-- Linkedin: [Andrey Pereira](linkedin.com/in/andrey-pereira-b92a36224)
+- Linkedin: [Andrey Pereira](https://www.linkedin.com/in/andrey-pereira-b92a36224/)
